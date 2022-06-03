@@ -1,0 +1,17 @@
+# Live2D Animator Motion Data
+$fps=30.0
+
+$fadein=500
+
+$fadeout=500
+
+PARAM_afure2=0
+PARAM_afure=0
+PARAM_suii=0
+PARAM_mizutamari=0
+PARAM_mizutamari2=0
+VISIBLE:mizutamari=1
+VISIBLE:garasu=1
+VISIBLE:nyo=1
+VISIBLE:bi_ka=1
+VISIBLE:afure=1

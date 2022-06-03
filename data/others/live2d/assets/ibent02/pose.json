@@ -1,0 +1,35 @@
+{
+	"type":"Live2D Pose",
+	"parts_visible":[
+		{
+			"group":[
+				{"id":"main_taitsu"},
+				{"id":"main_zurashi"}
+			]
+		},
+		{
+			"group":[
+				{"id":"mosaic"},
+				{"id":"taitsu"}
+			]
+		},
+		{
+			"group":[
+				{"id":"nyou_taitsu"},
+				{"id":"nyou_zurashi"}
+			]
+		},
+		{
+			"group":[
+				{"id":"shimi_taitsu"},
+				{"id":"shimi_zurashi"}
+			]
+		},
+		{
+			"group":[
+				{"id":"ryusui2"},
+				{"id":"ryusui"}
+			]
+		}
+	]
+}

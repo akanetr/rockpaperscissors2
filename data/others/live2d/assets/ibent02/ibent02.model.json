@@ -1,0 +1,33 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"ibent02.moc",
+	"textures":[
+		"ibent02.2048/texture_00.png",
+		"ibent02.2048/texture_01.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/taitsu_idring01.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai2.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai3.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai4.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai_tsunagi1.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai_tsunagi2.mtn"},
+			{"file":"motion/taitsu_idring01_nugenai_tsunagi3.mtn"},
+			{"file":"motion/taitsu_shikkin.mtn"},
+			{"file":"motion/taitsu_shikkingo_idring.mtn"},
+			{"file":"motion/taitsu_shikkin_idring.mtn"},
+			{"file":"motion/taitsu_shikkin_idring_owari.mtn"},
+			{"file":"motion/zurashi_idring01.mtn"},
+			{"file":"motion/zurashi_idring01_aseri.mtn"},
+			{"file":"motion/zurashi_shikkin.mtn"},
+			{"file":"motion/zurashi_shikkingo_idring.mtn"},
+			{"file":"motion/zurashi_shikkin_idring.mtn"},
+			{"file":"motion/zurashi_shikkin_idring_owari.mtn"}
+		]
+	},
+	"pose":"pose.json",
+	"project_settings":"ibent02.settings.json",
+	"name":"ibent02"
+}

@@ -1,0 +1,26 @@
+{
+	"type":"Live2D Pose",
+	"parts_visible":[
+		{
+			"group":[
+				{"id":"hidarite"},
+				{"id":"gu"},
+				{"id":"choki"},
+				{"id":"Par"},
+				{"id":"cop_hand"}
+			]
+		},
+		{
+			"group":[
+				{"id":"fuku1"},
+				{"id":"fuku2"}
+			]
+		},
+		{
+			"group":[
+				{"id":"namidayoke"},
+				{"id":"namida"}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"ibent01.moc",
+	"textures":[
+		"ibent01.2048/texture_00.png",
+		"ibent01.2048/texture_01.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/idring01_ahahah.mtn"},
+			{"file":"motion/idring01_bikubiku.mtn"},
+			{"file":"motion/idring01_dame.mtn"},
+			{"file":"motion/idring01_itai.mtn"},
+			{"file":"motion/idring01_shikkin01.mtn"},
+			{"file":"motion/idring01_shikkin01_owari.mtn"},
+			{"file":"motion/idring01_shikkin01_owari_naki.mtn"},
+			{"file":"motion/shikkin01.mtn"}
+		]
+	},
+	"project_settings":"ibent01.settings.json",
+	"name":"ibent01"
+}

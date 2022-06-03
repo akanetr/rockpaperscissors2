@@ -1,0 +1,33 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"bi_ka.moc",
+	"textures":[
+		"bi_ka.2048/texture_00.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/bi_ka01.mtn"},
+			{"file":"motion/bi_ka01_2.mtn"},
+			{"file":"motion/bi_ka02.mtn"},
+			{"file":"motion/bi_ka02_2.mtn"},
+			{"file":"motion/bi_ka03.mtn"},
+			{"file":"motion/bi_ka03_2.mtn"},
+			{"file":"motion/bi_ka04.mtn"},
+			{"file":"motion/bi_ka04_2.mtn"},
+			{"file":"motion/bi_ka05.mtn"},
+			{"file":"motion/bi_ka05_2.mtn"},
+			{"file":"motion/bi_ka06.mtn"},
+			{"file":"motion/bi_ka06_2.mtn"},
+			{"file":"motion/bi_ka07.mtn"},
+			{"file":"motion/bi_ka07_2.mtn"},
+			{"file":"motion/bi_ka07_3.mtn"},
+			{"file":"motion/bi_ka07_4.mtn"},
+			{"file":"motion/bi_ka08ugoki.mtn"},
+			{"file":"motion/bi_ka08ugoki_2.mtn"},
+			{"file":"motion/bi_ka09.mtn"},
+			{"file":"motion/bi_ka09_2.mtn"}
+		]
+	},
+	"project_settings":"bi_ka.settings.json",
+	"name":"bi_ka"
+}
