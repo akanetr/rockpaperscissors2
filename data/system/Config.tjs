@@ -1,6 +1,6 @@
 //ティラノビルダーによる自動ビルド　
 ;debugMenu.visible=false
-;configSave=file
+;configSave=webstorage
 ;global.config_version=5.00
 ;System.title=じゃんけんで負けたらヒロインがお茶を飲むだけのゲーム2有料版
 ;projectID=tyranoproject
